@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLConsoleApp", "SQLConsoleApp\SQLConsoleApp.csproj", "{7338FA54-A7D4-40A3-9B92-1769F2F14200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameForm", "GameForm\GameForm.csproj", "{29621795-F7EE-4178-AAC6-A1D3D9C1A98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7338FA54-A7D4-40A3-9B92-1769F2F14200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7338FA54-A7D4-40A3-9B92-1769F2F14200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7338FA54-A7D4-40A3-9B92-1769F2F14200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7338FA54-A7D4-40A3-9B92-1769F2F14200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29621795-F7EE-4178-AAC6-A1D3D9C1A98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29621795-F7EE-4178-AAC6-A1D3D9C1A98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29621795-F7EE-4178-AAC6-A1D3D9C1A98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29621795-F7EE-4178-AAC6-A1D3D9C1A98C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {995F1D74-D1C8-4D07-9B76-CC896C8C7615}
+	EndGlobalSection
+EndGlobal

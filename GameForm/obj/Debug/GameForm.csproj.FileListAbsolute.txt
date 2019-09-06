@@ -1,0 +1,15 @@
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\bin\Debug\GameForm.exe.config
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\bin\Debug\GameForm.exe
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\bin\Debug\GameForm.pdb
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\GameForm.csprojAssemblyReference.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\MainWindow.g.cs
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\App.g.cs
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\GameForm_MarkupCompile.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\GameForm_MarkupCompile.lref
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\MainWindow.baml
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\GameForm.g.resources
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\GameForm.Properties.Resources.resources
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\GameForm.csproj.GenerateResource.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\GameForm.csproj.CoreCompileInputs.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\GameForm.exe
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\GameForm\obj\Debug\GameForm.pdb

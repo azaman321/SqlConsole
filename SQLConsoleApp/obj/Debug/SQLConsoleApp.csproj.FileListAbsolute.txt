@@ -1,0 +1,7 @@
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\SQLConsoleApp\bin\Debug\SQLConsoleApp.exe.config
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\SQLConsoleApp\bin\Debug\SQLConsoleApp.exe
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\SQLConsoleApp\bin\Debug\SQLConsoleApp.pdb
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\SQLConsoleApp\obj\Debug\SQLConsoleApp.csprojAssemblyReference.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\SQLConsoleApp\obj\Debug\SQLConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\SQLConsoleApp\obj\Debug\SQLConsoleApp.exe
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week4\SQLConsoleApp\SQLConsoleApp\obj\Debug\SQLConsoleApp.pdb
